@@ -11,3 +11,25 @@ for (const course of coursesAndDurationArray) {
     div.innerText= course.title + ','+ course.monthDuration
     document.body.appendChild(div)
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
