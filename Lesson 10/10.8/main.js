@@ -1,6 +1,6 @@
 let Creator = document.forms.Creator;
 Creator.onsubmit = function (event) {
-    event.preventDefault()
+    event.preventDefault();
 
     let numberOfRows = +Creator.numberOfRows.value;
     let numberOfCells = +Creator.numberOfCells.value;
